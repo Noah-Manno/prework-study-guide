@@ -2,7 +2,7 @@
 
 ## Description
 
-I created this webpage to help overwhelmed bootcamp enrollees organize and review what they have learned from the prework. It provides a quick overview of the important ideas, functions, and algorithms which were discussed during the prework. In doing so, I learned the basic of HTML, CSS, Git, and JavaScript in order to create the webpage. 
+I created this webpage to help overwhelmed bootcamp enrollees organize and review what they have learned from the prework. It provides a quick overview of the important ideas, functions, and algorithms which were discussed during the prework. In doing so, I learned the basics of HTML, CSS, Git, and JavaScript in order to create the webpage. 
 
 ## Installation
 
